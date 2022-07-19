@@ -1,0 +1,7 @@
+C:\inetpub\wwwroot\emawebsite\MyWebApp.exe
+C:\inetpub\wwwroot\emawebsite\appsettings.Development.json
+C:\inetpub\wwwroot\emawebsite\appsettings.json
+C:\inetpub\wwwroot\emawebsite\MyWebApp.dll
+C:\inetpub\wwwroot\emawebsite\MyWebApp.deps.json
+C:\inetpub\wwwroot\emawebsite\MyWebApp.runtimeconfig.json
+C:\inetpub\wwwroot\emawebsite\MyWebApp.pdb

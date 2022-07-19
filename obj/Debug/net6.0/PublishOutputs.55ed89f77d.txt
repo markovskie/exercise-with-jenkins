@@ -1,0 +1,7 @@
+D:\Documents\Ema\first_dotnet_ex\MyWebApp\bin\Debug\net6.0\publish\MyWebApp.exe
+D:\Documents\Ema\first_dotnet_ex\MyWebApp\bin\Debug\net6.0\publish\appsettings.Development.json
+D:\Documents\Ema\first_dotnet_ex\MyWebApp\bin\Debug\net6.0\publish\appsettings.json
+D:\Documents\Ema\first_dotnet_ex\MyWebApp\bin\Debug\net6.0\publish\MyWebApp.dll
+D:\Documents\Ema\first_dotnet_ex\MyWebApp\bin\Debug\net6.0\publish\MyWebApp.deps.json
+D:\Documents\Ema\first_dotnet_ex\MyWebApp\bin\Debug\net6.0\publish\MyWebApp.runtimeconfig.json
+D:\Documents\Ema\first_dotnet_ex\MyWebApp\bin\Debug\net6.0\publish\MyWebApp.pdb
