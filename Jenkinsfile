@@ -10,8 +10,8 @@ pipeline {
         }
         stage('Publish') {
             steps {
-                bat "del /F /Q /S 'C:\\inetpub\\wwwroot\\emawebsite\\'" // deleting existing files from folder
-                bat "dotnet publish 'C:\\inetpub\\wwwroot\\emawebsite\\'" //publish the app in IIS folder
+                bat "del /F /Q /S "C:\\inetpub\\wwwroot\\emawebsite\\"" // deleting existing files from folder
+                bat "dotnet publish "C:\\inetpub\\wwwroot\\emawebsite\\"" //publish the app in IIS folder
 
             }
         }
