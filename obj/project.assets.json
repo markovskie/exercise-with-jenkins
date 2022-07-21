@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Documents\\Ema\\first_dotnet_ex\\MyWebApp\\MyWebApp.csproj",
+      "projectUniqueName": "D:\\Documents\\Ema\\first_dotnet_ex\\exercise-with-jenkins\\MyWebApp\\MyWebApp.csproj",
       "projectName": "MyWebApp",
-      "projectPath": "D:\\Documents\\Ema\\first_dotnet_ex\\MyWebApp\\MyWebApp.csproj",
+      "projectPath": "D:\\Documents\\Ema\\first_dotnet_ex\\exercise-with-jenkins\\MyWebApp\\MyWebApp.csproj",
       "packagesPath": "C:\\Users\\emilija.markovski\\.nuget\\packages\\",
-      "outputPath": "D:\\Documents\\Ema\\first_dotnet_ex\\MyWebApp\\obj\\",
+      "outputPath": "D:\\Documents\\Ema\\first_dotnet_ex\\exercise-with-jenkins\\MyWebApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\emilija.markovski\\AppData\\Roaming\\NuGet\\NuGet.Config"
