@@ -16,11 +16,16 @@ pipeline {
 
             }
         }
-        stage('Deploy') {
+        stage('Zip app') {
+            steps {
+                bat "powershell Compress-Archive D:\Documents\Ema\first_dotnet_ex\exercise-with-jenkins\MyWebApp\bin\Release\net6.0\publish D:\Documents\Ema\first_dotnet_ex\exercise-with-jenkins\MyWebApp\bin\Release\net6.0\publish.zip"
+            }
+        }
+        stage('Push zip to Jfrog') {
             steps {
                 echo 'Deploying....'
             }
-        }
+        }        
     }
 }
     
